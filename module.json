@@ -1,0 +1,13 @@
+{
+  "name": "putchar",
+  "version": "0.0.0",
+  "description": "putchar implementation for msp430-gcc",
+  "keywords": [],
+  "author": "kyle@kubos.co",
+    "repository": {
+    "url": "ssh://git@github.com/kyleparrott/msp-gcc-putchar",
+    "type": "git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
